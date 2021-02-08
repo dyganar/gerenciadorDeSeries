@@ -1,0 +1,1 @@
+Projeto sugerido pelo bootcamp LocalizaLabs .NET Developer nomeado como "Criando um APP simples de cadastro de séries em .NET" ministrado por Eliézer Zarpelão.
